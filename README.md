@@ -1,4 +1,4 @@
-# Hello, I'm [Nahid]! 👋
+# Hello, I'm Nahid! 👋
 
 I'm a 15-year-old aspiring coder from Bangladesh with a passion for Python programming. Currently diving deep into the world of software development, I'm constantly learning and experimenting with Python to build exciting projects.
 
